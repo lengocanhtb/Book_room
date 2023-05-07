@@ -1,0 +1,29 @@
+/* New post */
+.menu-sidebar{
+  float: left;
+}
+.menu-sidebar img{
+  width: 100%;
+  border-radius: 50%;
+
+}
+.user_info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.user_avatar{
+  padding: 20px;
+}
+.nav-link{
+  color: black;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.user_name{
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.user_info{
+  margin-bottom: 20px;
+}
